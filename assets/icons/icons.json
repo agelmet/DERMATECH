@@ -1,0 +1,16 @@
+{
+ "source": {
+  "kind": "file",
+  "ref": "../work/mark.png"
+ },
+ "source_md5": "ff367c53d8556590f9a94d0a7da55870",
+ "version": "cd41dbbc",
+ "tile": "#F6F2EC",
+ "crop": null,
+ "header": [
+  "file",
+  "assets/img/dermatech-mark.webp",
+  "5b9a65948321b8d06c34410e9af813b7"
+ ],
+ "made": "2026-11-10"
+}
